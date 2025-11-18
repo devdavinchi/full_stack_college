@@ -3,12 +3,20 @@
 	
 	/*background:deepskyblue;*/
 	width:auto;
-
-
 }
-
+header{
+	display: flex;
+	align-self: center;
+	justify-content: center;
+}
+body{
+	background:#FDDFDF;
+}
 .group1{
 	background-color:mintcream 	;
+	border: 1px black solid;
+	padding:10px;
+	background-color: #DEFDE0;
 }
 
 form{
